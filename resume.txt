@@ -1,0 +1,16 @@
+Vijay Bandi
+Senior Data Engineer | MLOps Engineer | AI Engineer | Cloud Engineer
+
+Experience
+- Senior Data Engineer, American Express
+- AI Engineer, State Street
+- Cloud Engineer, HCLTech
+
+Specialties
+- Python, SQL, Spark, Kafka, Airflow, Databricks, Snowflake, Terraform, Azure, AWS, GCP, FastAPI, MLflow
+
+Highlights
+- 5+ years of enterprise delivery
+- 20+ projects across data, cloud, and AI
+- 99.9% production reliability focus
+- Strong automation, observability, and platform engineering experience
